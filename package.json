@@ -1,11 +1,16 @@
 {
-  "name": "typegoose-browser-shim",
-  "version": "1.0.1",
+  "name": "@halbtale/typegoose-browser-shim",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nenino2/typegoose-browser-shim.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nenino2/typegoose-browser-shim/issues"
+  },
+  "homepage": "https://github.com/Nenino2/typegoose-browser-shim#readme"
 }
